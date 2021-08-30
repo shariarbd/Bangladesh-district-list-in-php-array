@@ -1,4 +1,4 @@
-Bangladesh Districe List Array
+Bangladesh District List Array
 ====================
 If you plan to create a zone-based application for Bangladesh, this PHP array could help you a bit.  
 

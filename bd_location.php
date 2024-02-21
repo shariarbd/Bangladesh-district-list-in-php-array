@@ -19,7 +19,7 @@ function get_division_option($array) {
     }
 }
 
-// Call the funcion to get Division as option list
+// Call the function to get Division as option list
 // get_division_option($bd_location_array);
 
 
